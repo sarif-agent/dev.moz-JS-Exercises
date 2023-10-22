@@ -1,2 +1,3 @@
-# dev.moz-JS-Exercises
-Javascript Fundamental Exercises 
+# Javascript Fundamental Exercises 
+
+Some beginner level Javascript Exercises from dev.mozilla. 
